@@ -1,5 +1,5 @@
-# Zhaoxin KaiXian KX-7000 model for QEMU
-Zhaoxin KaiXian KX-7000 model and Shanghai vendor id support for QEMU, including SM2, SM3, SM4, zxpause
+# Zhaoxin KaiXian KX-7000 ShiJiDaDao model for QEMU
+Zhaoxin KaiXian KX-7000 ShiJiDaDao model and Shanghai vendor id support for QEMU, including SM2, SM3, SM4, zxpause
 
 # 使用方法
 下载本代码，将ShiJiDaDaoEmulation文件夹的zhaoxin shijidadao.c源码复制到qemu主线的/target/i386/cpu.c中Skylake-Client model之前，Broadwell的model之后。
